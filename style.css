@@ -1,35 +1,40 @@
-body{
-    background-color: #494949;
-    margin: 0px;
-    margin-top: 0;
+body {
+  margin: 0px;
+  margin-top: 0;
 }
-.entrada{
-    background-color: rgb(30, 30, 120);
-    padding: 10px;
-    border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    margin-bottom: 20px;
+.barrasup {
+  background-color: rgb(29, 29, 86);
+  padding: 10px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  margin-bottom: 20px;
 }
-.entrada h1{
-    color: rgb(190, 190, 190);
-    font-size: 60px;
-    margin: auto;
-    margin-left: 8px;
+.barrasup h1 {
+  color: rgba(255, 255, 255, 0.695);
+  font-size: 60px;
+  margin: auto;
+  margin-left: 8px;
 }
-p{
-    color: rgb(184, 184, 184);
-    margin-top: 0;
+#dp {
+  color: #76ffe6ac;
 }
-.sobre{
-    margin: auto;
-    padding: 10px;
-    max-width: 80%;
-    background-color: #2e2e2e;
-    border-radius: 10px;
+#subtit {
+  color: #bebebe;
 }
-.sobre h3{
-    font-size: 20px;
-    margin-top: 0;
-    margin-bottom: 5px;
-    color: bisque;
+p {
+  color: rgb(59, 59, 59);
+  margin-left: 8px;
+}
+.card {
+  margin: auto;
+  padding: 10px;
+  max-width: 80%;
+  background-color: #bebebe;
+  border-radius: 10px;
+}
+.card h3 {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: rgb(98, 62, 17);
 }
